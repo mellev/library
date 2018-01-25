@@ -6,5 +6,10 @@
             "email": "mellev@outlook.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Library\\": "src/"
+        }
+    }
 }
