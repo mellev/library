@@ -1,0 +1,10 @@
+{
+    "name": "mellev/library",
+    "authors": [
+        {
+            "name": "Mikhail Denisenko",
+            "email": "mellev@outlook.com"
+        }
+    ],
+    "require": {}
+}
